@@ -6,4 +6,4 @@ if (4 == random.randint(0, 10)):
 
 else:
     print("nope, not this time")
-    print("maybe next time")
+    print("maybe next time, keep trying")
